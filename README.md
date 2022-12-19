@@ -3,7 +3,7 @@
 This is a restaurant recommendation application based on the location. 
 
 The program uses Yelp fusion API to get restaurant information. The program uses Google Maps API to get the user's current location. The program gives you two options to search restaurants:
-  1. The user can manually type the city name in the form and the program will show you the recommended restaurant list around typed area.
+  1. The user can manually type the city name in the form and the program will show you the recommended restaurant list around typed area. The program accepts the abbreviation and can modify the typo if it's understandable.
   2. The user can click "Go" button to get the recommended restaurant list based on their current location.
   
 - HOW TO RUN THE CODE  
